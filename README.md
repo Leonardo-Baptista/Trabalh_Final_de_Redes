@@ -1,8 +1,8 @@
 # Trabalho_Final_de_Redes
 
-Leonardo Gonçalves
+##### Leonardo Gonçalves
 
-Lucas Mantuan
+##### Lucas Mantuan
 
 O trabalho consiste em três partes:(1) OpenPLC Runtime, (2) OpenPLC Editor e (3) ScadaBR
 
